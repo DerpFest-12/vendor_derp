@@ -22,27 +22,40 @@
    <string-array name="udfps_icons">
         <item>udfps_icon_default</item>
         <item>udfps_icon_derp</item>
+        <item>udfps_icon_default_0</item>
+        <item>udfps_icon_default_1</item>
         <item>udfps_icon_default_2</item>
         <item>udfps_icon_default_3</item>
         <item>udfps_icon_default_4</item>
         <item>udfps_icon_default_5</item>
         <item>udfps_icon_arc_reactor</item>
+        <item>udfps_icon_batman</item>
+        <item>udfps_icon_batman_flat</item>
         <item>udfps_icon_cp</item>
         <item>udfps_icon_cpt_america_flat</item>
         <item>udfps_icon_cpt_america_flat_gray</item>
         <item>udfps_icon_dragon_black_flat</item>
         <item>udfps_icon_fire_ice_ouroboros</item>
         <item>udfps_icon_glow_circle</item>
+        <item>udfps_icon_gxzw</item>
+        <item>udfps_icon_huawei</item>
+        <item>udfps_icon_light</item>
         <item>udfps_icon_madness</item>
+        <item>udfps_icon_madness_v2</item>
         <item>udfps_icon_mclaren</item>
+        <item>udfps_icon_miui</item>
         <item>udfps_icon_neon_arc</item>
         <item>udfps_icon_neon_arc_gray</item>
         <item>udfps_icon_neon_circle_pink</item>
         <item>udfps_icon_neon_triangle</item>
         <item>udfps_icon_op</item>
+        <item>udfps_icon_op_2077</item>
+        <item>udfps_icon_op_rainbow</item>
         <item>udfps_icon_pacman</item>
         <item>udfps_icon_pacman2</item>
-        <item>udfps_icon_pokeball</item>
+        <item>udfps_icon_pokeball</item>   
+        <item>udfps_icon_pokeball_1</item>
+        <item>udfps_icon_pokeball_2</item>
         <item>udfps_icon_paint_splash_circle</item>
         <item>udfps_icon_redskul_1</item>
         <item>udfps_icon_redskul_2</item>
@@ -52,11 +65,11 @@
         <item>udfps_icon_shooky</item>
         <item>udfps_icon_sm</item>
         <item>udfps_icon_sm1</item>
+        <item>udfps_icon_spiderman</item>
         <item>udfps_icon_spiral_blue</item>
         <item>udfps_icon_sun_metro</item>
-        <item>udfps_icon_light</item>
-        <item>udfps_icon_gxzw</item>
         <item>udfps_icon_unfunnyguy</item>
+        <item>udfps_icon_yield</item>
         <item>udfps_icon_transparent</item>
    </string-array>
 
