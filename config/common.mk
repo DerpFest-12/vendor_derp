@@ -211,6 +211,9 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/derp/overlay/common
 
 -include $(WORKSPACE)/build_env/image-auto-bits.mk
 
+# Lawnchair
+$(call inherit-product, vendor/lawnchair/lawnchair.mk)
+
 # Versioning
 include vendor/derp/config/version.mk
 
