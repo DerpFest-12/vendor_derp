@@ -12,10 +12,12 @@ PRODUCT_PACKAGES += \
 
 ifeq ($(PRODUCT_TYPE), go)
 PRODUCT_PACKAGES += \
-    DerpLauncherQuickStepGo
+    Launcher3Go \
+    Launcher3QuickStepGo
 else
 PRODUCT_PACKAGES += \
-    DerpLauncherQuickStep
+    Launcher3 \
+    Launcher3QuickStep
 endif
 
 # Charger
